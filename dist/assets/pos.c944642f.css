@@ -1,0 +1,1 @@
+@media print{body *{visibility:hidden}#element-to-print,#element-to-print *{color:#000!important;visibility:visible}#element-to-print p{line-height:.75rem!important}@page{size:80mm 80mm;width:80mm}}
